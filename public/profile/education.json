@@ -1,0 +1,19 @@
+{
+  "education": [
+    {
+      "title": "Aug 2019 - May 2023 (Expected)",
+      "cardTitle": "B.Tech, Computer Science",
+      "cardSubtitle": "CMRCET, Hyderabad",
+      "cardDetailedText": "CGPA - 8.76",
+      "icon": {
+        "src": "images/education/cmr.jpg"
+      }
+    },
+    {
+      "title": "Apr 2019",
+      "cardTitle": "High School, TSBIE",
+      "cardSubtitle": "Narayana Junior College, Hyderabad",
+      "cardDetailedText": "Marks - 94%"
+    }
+  ]
+}

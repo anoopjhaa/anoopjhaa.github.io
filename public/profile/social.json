@@ -1,0 +1,16 @@
+{
+  "social": [
+    {
+      "network": "linkedin",
+      "href": "https://www.linkedin.com/in/anoopjhaa/"
+    },
+    {
+      "network": "github",
+      "href": "https://github.com/anoopjhaa"
+    },
+    {
+      "network": "email",
+      "href": "mailto:godofanoop@gmail.com"
+    }
+  ]
+}

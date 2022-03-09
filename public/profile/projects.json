@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/pizza.png",
+      "title": "Mama John's Pizza",
+      "bodyText": "- Full Stack Pizza Delivery Application developed using **React** and **Redux** for front end and State Management.\n -  Employed Redux-Thunk for Asynchronous operations and Stripe API for payment integration.\n - Used Node JS for Runtime environment, Express JS for Backend Routing and Mongo DB for Database.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/anoopjhaa/mama-john-pizza"
+        },
+        {
+          "text": "Live",
+          "href": "https://mama-john-pizza.herokuapp.com/"
+        }
+      ],
+      "tags": ["ReactJS", "MongoDB", "NodeJS"]
+    },
+    {
+      "image": "images/projects/funboard.png",
+      "title": "Fun Board",
+      "bodyText": "- Implemented **Collaborative Interactive whiteboard** compatible with any pointing device.\n -  Employed **Socket IO** for real time, bi-directional low-latency communication between web clients and servers.\n - Added **sticky notes** and images functionality from scratch with JavaScript.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/anoopjhaa/fun-board"
+        },
+        {
+          "text": "Live",
+          "href": "https://fun-board.herokuapp.com/"
+        }
+      ],
+      "tags": ["React", "Socket IO", "JavaScript"]
+    },
+    {
+      "image": "images/projects/file-zipper.png",
+      "title": "File Zipper",
+      "bodyText": "- Implemented **Huffman encoding** algorithm for compression of text files.\n - Achieved compression ratio up-to **6.5** by assigning variable-length codes to input characters.\n - Used **Binary Heap** to assign variable length codes to input characters, based on the frequencies of corresponding characters.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/anoopjhaa/file-zippper"
+        },
+        {
+          "text": "Live",
+          "href": "http://anoopjhaa.me/file-zippper/"
+        }
+      ],
+      "tags": ["JavaScript", "Data Structures", "Algorithms"]
+    },
+    {
+      "image": "images/projects/banking.png",
+      "title": "Bank Account Management System",
+      "bodyText": "- This site enables the customers to perform the basic banking transactions by sitting at their office or at homes through PC or laptop.\n - The system provides the access to the customer to create an account, deposit/withdraw the cash from his account, also to view reports of all accounts present.\n - The customers can access the banks website for viewing their Account details and perform the transactions on account as per their requirements.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/anoopjhaa/CMR-Bank"
+        }
+      ],
+      "tags": ["Java", "JavaFX", "MySQL"]
+    }
+  ]
+}
